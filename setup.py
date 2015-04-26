@@ -10,7 +10,7 @@ setup(
     url='https://github.com/nehz/asyncwsgi',
     license='MIT',
     description='Async WSGI support for tornado and asyncio',
-    long_description=open('README.md').read(),
+    long_description=open('README.rst').read(),
     install_requires=[
         'greenlet >= 0.4.5',
     ],
